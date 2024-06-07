@@ -1,0 +1,8 @@
+Test
+
+This is just a test to see if .doc files can also be uploaded to and then and viewed on a GitHub repository.
+
+That is all.
+
+
+This has been a test.
